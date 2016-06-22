@@ -18,12 +18,12 @@ This will install django framework, if you want to change the verision of django
 website is a project name which contain python package.
 Look at website project:
 
-mysite/
+    /directoryname/
     manage.py
-    mysite/
-        __init__.py
-        settings.py
-        urls.py
-        wsgi.py
-
-
+    website/
+    __init__.py
+    settings.py
+    urls.py
+    wsgi.py
+   
+   
