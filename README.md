@@ -27,9 +27,9 @@ Look at website project:
     wsgi.py
     
 
-    manage.py : command-line utility that lets you interact with this Django project in various ways
-    The inner website/ directory is the actual Python package for your project. Its name is the Python package name you’ll need to use to import anything inside it (e.g. mysite.urls).
-    website/__init__.py: An empty file that tells Python that this directory should be considered a Python package
+   1. manage.py : command-line utility that lets you interact with this Django project in various ways
+   2. The inner website/ directory is the actual Python package for your project. Its name is the Python package name you’ll need to        use to import anything inside it (e.g. mysite.urls).
+    3. website/__init__.py: An empty file that tells Python that this directory should be considered a Python package
     
     
     
